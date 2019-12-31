@@ -1,5 +1,5 @@
 # CSharp-ConsultaCnpjOnline
- Realiza consulta por um link com WebService, fazendo a consulta e retornando o basico sobre o cnpj
+ Realiza consulta por um link com WebService("@"https://www.receitaws.com.br/v1/cnpj/" + vCnpjParaConsultar;"), fazendo a consulta e retornando o basico sobre o cnpj.
 Feito bem simples, para consulta rapida.
 
 <b>Tela 1</b>
